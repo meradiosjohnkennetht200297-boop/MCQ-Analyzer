@@ -1,0 +1,5 @@
+{
+  "name": "MCQ Analyzer Pro",
+  "description": "A high-performance psychometric analysis tool for Multiple Choice Question assessments. Upload student responses to calculate item difficulty, discrimination, distractor efficiency, and test reliability (KR-20).",
+  "requestFramePermissions": []
+}
